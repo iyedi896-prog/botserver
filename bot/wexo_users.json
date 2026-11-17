@@ -1,0 +1,29 @@
+{
+  "users": {
+    "8430712487": {
+      "id": 8430712487,
+      "username": "wexo_all",
+      "first_name": "𝐖𝐄𝐗𝐎 ⛩",
+      "last_name": null,
+      "language_code": "fr",
+      "is_premium": false,
+      "at": 1793080953.412693,
+      "photo": "AgACAgQAAxUAAWrgPab87VLfKSMq-x4wy4Jd-qpaAALSEGsbVv84Usyh4ky_RfNlAQADAgADYwADPQQ"
+    },
+    "8477400986": {
+      "id": 8477400986,
+      "username": "mal2006ak",
+      "first_name": "🕸",
+      "last_name": null,
+      "language_code": "fr",
+      "is_premium": false,
+      "at": 1793080811.8510716,
+      "photo": "AgACAgQAAxUAAWrgPfTl32ZjcQcz4o0nQ4-24C7UAAK9DmsbQk5JUgKg8kKD9GYyAQADAgADYwADPQQ",
+      "premium": false,
+      "role": null
+    }
+  },
+  "admins": [
+    8477400986
+  ]
+}

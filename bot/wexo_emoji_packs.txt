@@ -1,0 +1,7 @@
+# Telegram custom-emoji packs requested for Wexo Enhancer.
+# Pack links are lookup sources, not guaranteed IDs: the bot must be able to read the set and
+# Telegram must permit this bot to send custom emoji.
+https://t.me/addemoji/TgAndroidIcons
+https://t.me/addemoji/tgmacicons
+https://t.me/addemoji/relynth_by_reTikTok_bot
+https://t.me/addemoji/adaptiveqp_by_emsetbot
